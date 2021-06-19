@@ -1,3 +1,4 @@
+# Description:
 The program allows user to look up latest stats about COVID-19 which includes confirmed cases, deaths, and number of recovered.The program can also allow user to ask about stats for certain countries, states, and counties. 
 The program uses Dialogflow and coronavirus-tracker API to get the latest data for COVID-19 and Unity to provide user a UI. 
 The character in this program has three animation: idle, acknowledgment, and talking. 
