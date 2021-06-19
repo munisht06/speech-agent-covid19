@@ -17,6 +17,6 @@ If the COVID-19 tracker API does not respond on time, the character will ask the
 No dependencies needed for Unity. For dialogFlow bent was used for node.js.
 
 # How to compile and run: 
-To compile/to open, open Unity Hub and add "NUIAssignment3" folder as a project or open "NUIAssignment3" folder as a project. 
+To compile/to open, open Unity Hub and add "Speech Agent" folder as a project or open "Speech Agent" folder as a project. 
 To build, in Unity click on file then "Build Setting" then click "Build" or "Build and Run" and then select the "Build" Folder in NUIA3. 
 To run the project, copy the "nuispring2020.p12" file from the "Assets" folder and paste in the "NUIAssignment3_Data" folder in Build Folder then open the "NUIAssignment3.exe" file in the Build folder.
